@@ -1,0 +1,40 @@
+.header {
+    background-color: green;
+    width: 700px;
+    height: 70px;
+    margin:20px;
+    padding: 10px;
+}
+.navbar {
+    background-color: indianred;
+    width:530px;
+    height:300px;
+    margin:20px;
+    padding: 10px;
+    display: inline-block;
+}
+.verNav {
+    background-color: blue;
+    width:120px;
+    height: 250px;
+    margin-top:20px;
+    padding: 10px;
+    display: inline-block;
+}
+.verNav , .navbar {
+    vertical-align: top;
+}
+.content {
+    background-color: rgb(158, 158, 26);
+    display: inline-block;
+    width:150px;
+    height: 200px;
+    margin:10px;
+}
+.ad {
+    background-color:red;
+    width: 500px;
+    height: 50px;
+    margin: 10px;
+
+}
